@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700;800&family=Inter:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-brand-purple-light: #d946ef;
+  --color-brand-purple: #9B25C2;
+  --color-brand-purple-dark: #701a88;
+  
+  --color-brand-charcoal: #080808;
+  --color-brand-dark: #000000;
+  --color-brand-black: #000000;
+  
+  --font-serif: "Cinzel", Georgia, serif;
+  --font-sans: "Inter", system-ui, sans-serif;
+}
+
+@utility text-glow-purple {
+  text-shadow: 0 0 10px rgba(155, 37, 194, 0.4), 0 0 20px rgba(155, 37, 194, 0.2);
+}
+
+@utility box-glow-purple {
+  box-shadow: 0 0 15px rgba(155, 37, 194, 0.5), 0 0 30px rgba(155, 37, 194, 0.25);
+}
+
+@utility border-glow-purple {
+  border-color: rgba(155, 37, 194, 0.7);
+  box-shadow: 0 0 10px rgba(155, 37, 194, 0.25);
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #000000;
+}
+::-webkit-scrollbar-thumb {
+  background: #111;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #9B25C2;
+}
+
+html {
+  scroll-behavior: smooth;
+  background-color: #000000;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  color: #e5e5e5;
+  background-color: #000000;
+}

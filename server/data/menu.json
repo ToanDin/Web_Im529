@@ -1,0 +1,114 @@
+{
+  "signatures": [
+    {
+      "id": "si-1779260912902",
+      "name": "BLOOD TYPE",
+      "description": "AAA",
+      "price": 1,
+      "tag": "",
+      "image": "/api/uploads/image-1779260900371-289613404.png"
+    }
+  ],
+  "smoked": [
+    {
+      "id": "sm1",
+      "name": "The Smoked 529 Old Fashioned",
+      "description": "Hand-selected single barrel bourbon, Angostura & orange bitters, orange peel, cold-smoked under cherry wood oak.",
+      "price": 22,
+      "tag": "Signature",
+      "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=600"
+    },
+    {
+      "id": "sm2",
+      "name": "Charcoal Crimson Sour",
+      "description": "Bourbon whiskey, fresh lemon, activated charcoal powder, simple syrup, egg white foam, red wine float.",
+      "price": 20,
+      "tag": "Popular",
+      "image": "https://images.unsplash.com/photo-1536935338788-846bb9981813?q=80&w=600"
+    },
+    {
+      "id": "sm3",
+      "name": "Wood-Fired Negroni",
+      "description": "Cedar wood smoked gin, Campari, sweet vermouth, charred orange peel slice.",
+      "price": 21,
+      "tag": "Bold",
+      "image": "https://images.unsplash.com/photo-1556679343-c7306c1976bc?q=80&w=600"
+    },
+    {
+      "id": "sm4",
+      "name": "Peated Forge & Fire",
+      "description": "Islay Single Malt Scotch, honey-ginger syrup, fresh lemon, atomized smoky single malt wash.",
+      "price": 23,
+      "tag": "Intense",
+      "image": "https://images.unsplash.com/photo-1527061011665-3652c757a4d4?q=80&w=600"
+    }
+  ],
+  "molecular": [
+    {
+      "id": "m1",
+      "name": "Gold Dust Boulevardier",
+      "description": "Campari, sweet vermouth, 12-year bourbon, gold leaf flakes, orange oils.",
+      "price": 21,
+      "tag": "Luxurious",
+      "image": "https://images.unsplash.com/photo-1556679343-c7306c1976bc?q=80&w=600"
+    },
+    {
+      "id": "m2",
+      "name": "Spherical Gin Tonic",
+      "description": "Premium dry gin, tonic reduction, spherified lime caviar pearls, rosemary sprig, elderflower mist.",
+      "price": 19,
+      "tag": "Avant-Garde",
+      "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=600"
+    },
+    {
+      "id": "m3",
+      "name": "Neon Nitro Cold Brew",
+      "description": "Espresso vodka, coffee liqueur, fresh cold brew, nitrogen-charged cream float, cocoa nib dust.",
+      "price": 18,
+      "tag": "Energizing",
+      "image": "https://images.unsplash.com/photo-1608270586620-248524c67de9?q=80&w=600"
+    },
+    {
+      "id": "m4",
+      "name": "Liquid Nitrogen Bramble",
+      "description": "Muddled blackberries, gin, lemon juice, freeze-dried blackberry crumble, dry ice fog.",
+      "price": 22,
+      "tag": "Visual",
+      "image": "https://images.unsplash.com/photo-1574085733277-851d9d856a3a?q=80&w=600"
+    }
+  ],
+  "classics": [
+    {
+      "id": "c1",
+      "name": "Amber Glow Manhattan",
+      "description": "100 proof rye whiskey, artisan sweet vermouth, orange bitters, brandied cherry.",
+      "price": 20,
+      "tag": "Premium",
+      "image": "https://images.unsplash.com/photo-1587223962930-cb7f31384c19?q=80&w=600"
+    },
+    {
+      "id": "c2",
+      "name": "1915 Aviation",
+      "description": "Gin, Maraschino liqueur, Crème de Violette, fresh lemon juice.",
+      "price": 18,
+      "tag": "Vintage",
+      "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=600"
+    },
+    {
+      "id": "c3",
+      "name": "Sazerac Classique",
+      "description": "Rye whiskey, Peychaud's bitters, absinthe rinse, sugar cube, lemon twist.",
+      "price": 19,
+      "tag": "Historic",
+      "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?q=80&w=600"
+    },
+    {
+      "id": "c4",
+      "name": "Vesper Martini",
+      "description": "Gin, vodka, Lillet Blanc, thin lemon peel, shaken over crushed ice.",
+      "price": 20,
+      "tag": "Elegant",
+      "image": "https://images.unsplash.com/photo-1574085733277-851d9d856a3a?q=80&w=600"
+    }
+  ]
+}

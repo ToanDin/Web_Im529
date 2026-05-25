@@ -1,0 +1,10 @@
+[
+  {
+    "id": "msg-1779331434061",
+    "name": "Alice",
+    "email": "alice@example.com",
+    "subject": "General Inquiry",
+    "message": "Hello world",
+    "createdAt": "2026-05-21T02:43:54.061Z"
+  }
+]
